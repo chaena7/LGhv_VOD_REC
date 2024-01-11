@@ -1,4 +1,4 @@
-### <div align="center">📺 LG헬로비전 VOD 개인화 추천 프로젝트
+![3](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/2d6f4a45-1893-4d04-9f04-4cbf72dd0690)### <div align="center">📺 LG헬로비전 VOD 개인화 추천 프로젝트
 
 헬로 TV 사용자를 위한 VOD 추천 서비스
 - LG 헬로비전 서비스 특성을 반영한 VOD 추천 서비스 웹기반 개발
@@ -66,24 +66,39 @@
 ![슬라이드15](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/4b206523-5344-483c-87a6-ff82aab9777a)
 
 ### 4. 서비스 개발 과정
-1) 데이터 전처리
+#### 1) 데이터 전처리
    - 세부 정보 크롤링 : 세부장르, 시청 연령, 포스터 이미지 URL, 개봉일/ 업로드 날짜
    - 프로그램 이름 추출
    - 시간 관련 변수 생성
    - 이벤트성 데이터 제거
    - Subsr_id, Kids 구분 컬럼 추가
      
-2) 데이터 베이스 ERD 설계
+#### 2) 데이터 베이스 ERD 설계
    ![KakaoTalk_20240111_160213447](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/3f2a4bc6-cf14-4bf8-92e2-e92208d4d816)
 
 
-3) 데이터 모델링
+#### 3) 데이터 모델링
 - 유저 시청 패턴에 따른 군집화를 진행한 후, 각 유저별 추천 모델 적용
   ![슬라이드22](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/93887800-9a86-4e86-af69-30a0534339fe)
  ![슬라이드24](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/aacb5bce-0cc3-4b12-b351-a1bdd9db8f9f)
 
-4) BE
+#### 4) BE
 
-5) CI/CD
-6) 
-   
+#### 5) CI/CD
+**- AWS**
+   ![1](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/56983478-71e7-48fc-8844-aa6090846771)
+
+   ![2](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/5fb11138-7b61-4b21-9fdf-37c24335e730)
+
+**- Airflow 를 이용한 파이프라인 구축**
+   ![3](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/f4619010-db2c-4f28-b2f8-5d669887e1d9)
+  ![4](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/b9dcb0d0-fe38-478d-8290-588190a3f5b7)
+
+#### 6) 시연 영상
+
+#### 7) 기대효과 및 확장 가능성
+	![슬라이드38](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/8274f147-2aa5-4fc1-859f-b15329127f29)
+
+#### 8) 회고고
+   ![슬라이드39](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/5ccfe333-cd2a-4506-8f48-ff40385497f5)
+
