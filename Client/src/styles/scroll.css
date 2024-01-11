@@ -1,0 +1,51 @@
+/* CSS 파일 */
+
+  .scroll-background {
+    /* 일정 스크롤 위치를 넘어섰을 때의 배경색 */
+    background-color: rgb(196, 194, 194);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* 음영 효과 */
+    border-radius: 8px; /* 테두리를 둥글게 */
+    background-size: cover; /* 배경 사이즈 조정 */
+
+  }
+  .top1 {
+    display: none;
+    position: fixed;
+    bottom: 60px;
+    right: 40px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+
+    z-index: 999;
+    opacity: 0.6;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: yogi, sans-serif;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  .top1:hover,
+  .top1:active {
+    transform: scale(1.3);
+    opacity: 1; /* 버튼의 크기를 약간 키워주는 변화 */
+  }
+  
+  .visible {
+    position: fixed;
+    bottom: 60px;
+    right: 40px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+
+    z-index: 999;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.6;
+    color: white;
+    font-family: yogi, sans-serif;
+    cursor: pointer;
+    display: block;
+  }

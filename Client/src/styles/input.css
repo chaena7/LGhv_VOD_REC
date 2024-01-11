@@ -1,0 +1,30 @@
+/* Custom Styles for Search Input */
+.input-search {
+    position: fixed;
+    left: 0;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
+    outline: none;
+    border: none;
+    background: rgb(75, 78, 90, 0.6);
+    color: rgb(61, 62, 64);
+    height: 40%;
+    padding-left: calc(2.5vw + 50px);
+    width: 100vw;
+  }
+  
+  .input-search input[type="text"] {
+    box-sizing: border-box;
+    padding: 1px 0px;
+    /* background-color: field; */
+
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(45, 43, 43), rgb(44, 42, 42))
+
+  }
+  
+  .input-search input[type="text"]:focus {
+    font-weight:100;
+  }
+  
+  

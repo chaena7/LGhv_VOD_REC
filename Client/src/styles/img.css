@@ -1,0 +1,45 @@
+.button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+ 
+    outline: none;
+
+
+    width: 90px; /* 원하는 너비 설정 */
+    /* height: 90px; */
+    transition: transform 0.3s ease; /* 변화가 발생할 때 애니메이션 속성 설정 */
+  }
+  
+  .button:hover,
+  .button:active {
+    transform: scale(1.5); /* 버튼의 크기를 약간 키워주는 변화 */
+  }
+
+  .button1 {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+ 
+    outline: none;
+
+
+    width: 65px; /* 원하는 너비 설정 */
+    height: 65px;
+    transition: transform 0.3s ease; /* 변화가 발생할 때 애니메이션 속성 설정 */
+  }
+  
+  .button1:hover,
+  .button1:active {
+    transform: scale(1.5); /* 버튼의 크기를 약간 키워주는 변화 */
+  }
+
+  .button2 {
+    transition: transform 0.3s ease;
+
+  }
+  .button2:hover,
+  .button2:active {
+    transform: scale(1.05); /* 버튼의 크기를 약간 키워주는 변화 */
+  }
+

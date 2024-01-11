@@ -1,0 +1,17 @@
+/* More forecasts */
+#ww_33a8223582235_u {
+    color: transparent;
+  }
+  
+  /* 일기 예보 */
+  #ww_33a8223582235_u::after {
+    content: '일기 예보';
+    color: transparent;
+    position: absolute;
+    width: 30%;
+    height: 10%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+  }
+  

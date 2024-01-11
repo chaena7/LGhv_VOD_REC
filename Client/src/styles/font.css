@@ -1,0 +1,60 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSans.ttf"); font-family : "IBM Plex Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ABeeZeeRegular.ttf"); font-family : "ABeeZee"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/YellowtailRegular.ttf"); font-family : "Yellowtail"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PaytoneOneRegular.ttf"); font-family : "Paytone One"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/YesevaOneRegular.ttf"); font-family : "Yeseva One"; font-weight : 400;  }
+ @font-face {
+    font-family: "lg italic";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart Bold Italic.ttf") format("truetype");
+    font-style : normal;
+    font-weight: bold;
+ }
+ @font-face {
+    font-family: "lg";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart Bold.ttf") format("truetype");
+    font-style : normal;
+    font-weight: bolder;
+ }
+ @font-face {
+    font-family: "lg";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: lighter;
+ }
+ @font-face {
+    font-family: "lg italic";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart Regular Italic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+ }
+ @font-face {
+    font-family: "lg";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+ }
+ @font-face {
+    font-family: "lg";
+    font-display: swap;
+    src: url("assets/fonts/LG Smart SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: bold;
+ }
+
+ @font-face {
+    font-family: "yogi";
+    font-display: swap;
+    src: url("assets/fonts/JalnanGothicTTF.ttf") format("truetype");
+    font-style: normal;
+    font-weight: bold;
+ }
