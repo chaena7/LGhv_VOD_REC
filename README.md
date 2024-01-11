@@ -78,9 +78,10 @@
 
 
 #### 3) 데이터 모델링
-- 유저 시청 패턴에 따른 군집화를 진행한 후, 각 유저별 추천 모델 적용
-  ![슬라이드22](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/93887800-9a86-4e86-af69-30a0534339fe)
- ![슬라이드24](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/aacb5bce-0cc3-4b12-b351-a1bdd9db8f9f)
+
+![image](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/b899f072-f40a-47ec-bb2f-9c1b9fde0f6a)
+	![image](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/7dd86147-8a43-428c-be4c-668f746a16f8)
+
 
 #### 4) BE
 
