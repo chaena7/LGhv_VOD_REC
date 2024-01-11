@@ -121,6 +121,24 @@
 
 
 ### 4) BE
+Backend Code Run
+```bash
+cd Backend
+
+# 가상환경 생성 및 실행
+python3 -m venv venv
+#windows 
+venv\Scripts\activate.bat
+# mac 
+source venv/bin/activate
+
+# 의존성 파일 사용 필요 라이브러리 설치
+pip install -r requirements.txt
+
+# 실행
+python manage.py runserver
+```
+
 
 ### 5) CI/CD
 **- AWS**
