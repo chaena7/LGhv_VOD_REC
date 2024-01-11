@@ -116,6 +116,8 @@
 
 ### 6) 시연 영상
 
+[![Video Label](http://img.youtube.com/vi/4hEDoCwRhBE/0.jpg)](https://youtu.be/4hEDoCwRhBE?si=tEMPvnau6BHUuPHw)
+
 ### 7) 기대효과 및 확장 가능성
 ![슬라이드38](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/8274f147-2aa5-4fc1-859f-b15329127f29)
 
