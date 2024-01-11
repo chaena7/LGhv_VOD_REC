@@ -911,8 +911,8 @@ class ChartView(APIView):
     def get(self, request):
 
         #버킷 정보 설정
-        aws_access_key_id = 'AKIATA2ZCMWWOQA7IBRA'
-        aws_secret_access_key = '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'
+        # aws_access_key_id = 
+        # aws_secret_access_key = 
         s3_bucket_name = 'airflowexample'
 
         #client 생성
@@ -1199,8 +1199,8 @@ class ChartsampleView(APIView):
 
         
         #버킷 정보 설정
-        aws_access_key_id = 'AKIATA2ZCMWWOQA7IBRA'
-        aws_secret_access_key = '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'
+        # aws_access_key_id = 
+        # aws_secret_access_key = 
         s3_bucket_name = 'hello00.net-airflow'
         performance_folder = 'model_accuracy'
 

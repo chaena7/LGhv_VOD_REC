@@ -21,8 +21,7 @@ REGION_NAME = 'ap-northeast-2'
 BUCKET_NAME = 'hello00.net-model'
 MODEL_FILE_PATH = 'service/ml_models/'
 #
-AWS_ACCESS_KEY_ID = 'AKIATA2ZCMWWOQA7IBRA'
-AWS_SECRET_ACCESS_KEY = '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'
+
 
 def download_model(obj):
 
