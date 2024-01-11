@@ -13,6 +13,7 @@
 - **팀 이름** : Hello00 팀
 - **팀원 소개** : 공유경, 김명현, 김은혜, 박채나, 황성주 (5명)
 - **프로젝트 기간** : 2023.10 ~ 2023.12.29
+- **웹사이트 주소** : httsp://hello00.net
 - **서비스 배포** : 2023.11 ~ 2023.12
 - **개발 도구** :
   - (Data) Python, RDS
@@ -76,4 +77,13 @@
    ![KakaoTalk_20240111_160213447](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/3f2a4bc6-cf14-4bf8-92e2-e92208d4d816)
 
 
-4) 
+3) 데이터 모델링
+- 유저 시청 패턴에 따른 군집화를 진행한 후, 각 유저별 추천 모델 적용
+  ![슬라이드22](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/93887800-9a86-4e86-af69-30a0534339fe)
+ ![슬라이드24](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/aacb5bce-0cc3-4b12-b351-a1bdd9db8f9f)
+
+4) BE
+
+5) CI/CD
+6) 
+   
