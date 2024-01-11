@@ -71,17 +71,18 @@
    사용자 대부분이 VOD 시청 전환율이 낮은 군집에 포함
    -> 시청 전환율 개선을 위한 추천 서비스 고도화 필요
 
- 
+
+
 ## 3. 서비스 핵심 기능 소개
-**1) Simple 모드**
+### **1) Simple 모드**
 ![슬라이드11](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/c2744afb-02f5-43b2-9aa0-5a40bd4acda4)
 
-**2) 키즈 / 성인 필터링 기능**
+### **2) 키즈 / 성인 필터링 기능**
 ![슬라이드12](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/e51c581f-4afd-4649-a7db-1bad87a1c6b7)
 
 ![슬라이드13](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/bdef52fc-f21b-4935-a369-e403602c47eb)
 
-**3) 재추천 기능**
+### **3) 재추천 기능**
 ![슬라이드15](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/4b206523-5344-483c-87a6-ff82aab9777a)
 
 ## 4. 서비스 개발 과정
