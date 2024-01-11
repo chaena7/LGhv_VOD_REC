@@ -1,3 +1,6 @@
+
+    
+
 ### <div align="center">📺 LG헬로비전 VOD 개인화 추천 프로젝트
  
 헬로 TV 사용자를 위한 VOD 추천 서비스
@@ -16,16 +19,30 @@
 - **웹사이트 주소** : httsp://hello00.net
 - **서비스 배포** : 2023.11 ~ 2023.12
 - **개발 도구** :
+
+  <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+	  
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+          </div>
+    </div>
+    
   - (Data) Python, RDS
   - (BE) Django, AWS, Airflow
   - (FE) JavaScript, React, Figma
   - (Communication) Github, Notion, Slack
     
-	<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
   
 ### 프로젝트 소개
 #### 1. 기존 서비스 분석
@@ -97,7 +114,7 @@
 #### 6) 시연 영상
 
 #### 7) 기대효과 및 확장 가능성
-	![슬라이드38](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/8274f147-2aa5-4fc1-859f-b15329127f29)
+![슬라이드38](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/8274f147-2aa5-4fc1-859f-b15329127f29)
 
 #### 8) 회고
    ![슬라이드39](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/5ccfe333-cd2a-4506-8f48-ff40385497f5)
