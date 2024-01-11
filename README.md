@@ -88,10 +88,9 @@
 **- AWS**
    ![1](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/56983478-71e7-48fc-8844-aa6090846771)
 
-   ![2](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/5fb11138-7b61-4b21-9fdf-37c24335e730)
 
 **- Airflow 를 이용한 파이프라인 구축**
-   ![3](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/f4619010-db2c-4f28-b2f8-5d669887e1d9)
+   
   ![4](https://github.com/yOukyonG/LGhv_VOD_REC/assets/122434675/b9dcb0d0-fe38-478d-8290-588190a3f5b7)
 
 #### 6) 시연 영상
