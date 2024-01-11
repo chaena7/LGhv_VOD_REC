@@ -1,0 +1,7 @@
+  .bar {
+    margin-top: 5%;
+    background-color : rgba(228, 228, 228, 0.5); /* 색상과 투명도 조절 */
+    width: 100%;
+
+    box-shadow: 1px 1px 10px #989595;
+    }

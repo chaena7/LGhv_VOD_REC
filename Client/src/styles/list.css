@@ -1,0 +1,13 @@
+.img {
+    border: none;
+    background-color: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 4%;
+    transition: transform 0.3s ease; /* 변화가 발생할 때 애니메이션 속성 설정 */
+  }
+  
+  .img:hover,
+  .img:active {
+    transform: scale(1.05); /* 버튼의 크기를 약간 키워주는 변화 */
+  }

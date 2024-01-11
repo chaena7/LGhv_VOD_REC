@@ -1,0 +1,42 @@
+.microphone-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .microphone-icon{
+    cursor: pointer;
+    width: 50px;
+
+    transition: transform 0.3s ease;
+    /* animation: pulse 0.5s infinite; */
+  }   
+
+.microphone-icon:hover,
+.microphone-icon:active {
+  transform: scale(1.2); /* 버튼의 크기를 약간 키워주는 변화 */
+}
+  
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(0.8);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .microphone-status {
+    font-weight: bold;
+    position: absolute;
+    margin-left: -410%;
+    margin-top: -63%;
+    font-family: 'yogi'; /* 폰트명을 지정합니다. */
+
+  }

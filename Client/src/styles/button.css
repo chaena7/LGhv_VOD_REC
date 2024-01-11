@@ -1,0 +1,39 @@
+.default-class {
+    cursor: pointer;
+    font-weight: 600;
+    height: 50px;
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: -0.12px;
+    width: 80px;
+    background-color: rgb(241, 161, 175); /* 기본 색상 */
+    color: black; /* 텍스트 색상 */
+    border-radius: 15px;
+    border: 1px solid beige
+  }
+  
+  .selected-class {
+    cursor: pointer;
+    font-weight: 600;
+    height: 55px;
+    font-size: 1.8rem;
+    text-align: center;
+    letter-spacing: -0.14px;
+    width: 80px;
+    background-color: rgb(235, 110, 110); /* 선택된 상태의 색상 */
+    color: white; /* 텍스트 색상 */
+    border-radius: 15px;
+    border: 1px solid blanchedalmond
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; /* 버튼 사이의 간격 조절 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    align-items: center; /* 왼쪽 정렬 */
+  }
+  
+  .button-container button {
+    flex: 0 0 calc(20% - 10px); /* 5개의 버튼이 한 줄에 표시되도록 설정 */
+  }
