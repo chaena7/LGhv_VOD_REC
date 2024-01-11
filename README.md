@@ -13,13 +13,15 @@
 - **팀 이름** : Hello00 팀
 - **팀원 소개** : 공유경, 김명현, 김은혜, 박채나, 황성주 (5명)
 - **역할** :
-  - ***PM*** : <div style="margin: ; text-align: left;" "text-align: left;"> 황성주
-  - ***데이터 분석 및 모델링*** : <div style="margin: ; text-align: left;" "text-align: left;"> 공유경, 김은혜, 박채나
-  - ***Backend & DB*** : <div style="margin: ; text-align: left;" "text-align: left;"> 김은혜
-  - ***Frontend & DB*** : <div style="margin: ; text-align: left;" "text-align: left;"> 황성주
-  - ***CI/CD & Pipeline*** : <div style="margin: ; text-align: left;" "text-align: left;"> 김명현
+  - ***PM*** : 황성주
+  - ***데이터 분석 및 모델링*** : 공유경, 김은혜, 박채나
+  - ***Backend & DB*** : 김은혜
+  - ***Frontend & DB*** : 황성주
+  - ***CI/CD & Pipeline*** : 김명현
 - **프로젝트 기간** : 2023.10 ~ 2023.12.29
-- **웹사이트 주소** : httsp://hello00.net
+- **웹사이트 주소** :
+  - ***Client*** : https://hello00.net
+  - ***Server*** : https://hello00back.net
 - **서비스 배포** : 2023.11 ~ 2023.12
 - **개발 도구** :
   - **Data**
